@@ -12,12 +12,12 @@ Lebenslauf
 
 **Geburtsort:** Ettenheim
 
-**Staatsangehˆrigkeit:** Deutsch
+**Staatsangeh√∂rigkeit:** Deutsch
 
 **Familienstand:** ledig
 
 **Schulbildung:**
 
-    * Realschule
-    * Technisches Berufskolleg
-    * Hochschule *(Noch abzuschlieﬂen)*
+ * Realschule
+ * Technisches Berufskolleg
+ * Hochschule *(Noch abzuschlie√üen)*
