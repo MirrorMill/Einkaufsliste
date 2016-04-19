@@ -18,8 +18,6 @@ Lebenslauf
 
 **Schulbildung:**
 
-               *Realschule
-
-               *Technisches Berufskolleg
-
-               *Hochschule *(Noch abzuschlieﬂen)*
+    * Realschule
+    * Technisches Berufskolleg
+    * Hochschule *(Noch abzuschlieﬂen)*
